@@ -1,0 +1,1 @@
+var accuWeatherApiKey = "LXNiDmtnZanQ8r6SiKbHXOzuU4dyTGAo";
